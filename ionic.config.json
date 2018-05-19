@@ -1,0 +1,8 @@
+{
+  "name": "wowdoc",
+  "app_id": "2a42c96d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
